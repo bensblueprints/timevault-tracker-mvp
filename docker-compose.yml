@@ -1,0 +1,15 @@
+services:
+  timevault:
+    build: .
+    ports:
+      - '5316:5316'
+    environment:
+      - PORT=5316
+      - ADMIN_PASSWORD=${ADMIN_PASSWORD:-admin}
+      - DATA_DIR=/data
+    volumes:
+      - timevault-data:/data
+    restart: unless-stopped
+
+volumes:
+  timevault-data:
