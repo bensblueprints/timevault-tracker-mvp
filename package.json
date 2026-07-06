@@ -50,6 +50,10 @@
     },
     "directories": {
       "output": "release"
-    }
+    },
+    "asarUnpack": [
+      "vendor/**"
+    ],
+    "npmRebuild": false
   }
 }
