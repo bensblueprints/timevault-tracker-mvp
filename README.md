@@ -70,7 +70,7 @@ docker compose up -d   # → port 5316, data persisted in a named volume
 
 Don't want to touch a terminal? Grab the packaged installer (Windows) with everything pre-built:
 
-**→ [https://whop.com/onetime-suite](https://whop.com/onetime-suite)**
+**→ [https://whop.com/benjisaiempire/timevault-app](https://whop.com/benjisaiempire/timevault-app)**
 
 ## Development
 
