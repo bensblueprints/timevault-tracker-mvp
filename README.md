@@ -1,5 +1,9 @@
 # ⏱️ Timevault
 
+## Demo
+
+VIDEO-PLACEHOLDER
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 **Self-hosted time tracking for freelancers who bill clients.** One-click timers, projects with hourly rates, weekly timesheets, and reports that compute exactly what to invoice — running on *your* machine or *your* $5 VPS.
